@@ -1,0 +1,20 @@
+# Python缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+venv/
+.venv/
+
+# pytest缓存
+.pytest_cache/
+.coverage
+
+# VSCode配置
+.vscode/
+
+# 系统临时文件
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
